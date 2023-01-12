@@ -1,16 +1,2 @@
-# animator_2
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Record_2023-01-12-11-25-52_AdobeExpress](https://user-images.githubusercontent.com/113905603/211990168-dadc6e80-3ec8-48f8-b7bd-787cce7f8677.gif)
